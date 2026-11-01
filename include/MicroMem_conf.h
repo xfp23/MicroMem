@@ -18,6 +18,10 @@ extern "C"
 
 #define MICROMEM_VERSION "0.0.1"
 
+#define MICROMEM_ALIGN 8u
+
+#define MICROMEM_BUFFER_SIZE (1024u * 1u)
+
 #ifdef __cplusplus
 }
 #endif
