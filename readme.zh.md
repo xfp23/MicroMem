@@ -1,6 +1,6 @@
 # MicroMem
 
-[English](README.md) | [简体中文](README.zh.md)
+[English](./readme.md) | [简体中文](./readme.zh.md)
 
 一个面向嵌入式与车规项目的微型确定性静态内存池。
 内存**只在初始化阶段分配**，且**不支持单独释放**，因此分配耗时恒定，也不会产生碎片。

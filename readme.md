@@ -1,6 +1,6 @@
 # MicroMem
 
-[English](README.md) | [简体中文](README.zh.md)
+[English](./readme.md) | [简体中文](./readme.zh.md)
 
 A tiny, deterministic static memory pool for embedded and automotive projects.
 Memory is allocated **only during initialization** and is **never freed
