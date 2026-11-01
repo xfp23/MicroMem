@@ -13,9 +13,9 @@
 # 允许目录，但目录本身必须有被跟踪文件
 !src/
 !include/
-!examples/
+!example/
 
 # 允许目录下的所有文件（防止目录空了也被忽略）
 !src/**
 !include/**
-!examples/**
+!example/**
